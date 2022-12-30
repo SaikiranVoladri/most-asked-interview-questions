@@ -1,0 +1,52 @@
+What is the Java Virtual Machine (JVM)?
+What is a Java class?
+What is an object in Java?
+What is inheritance in Java?
+What is polymorphism in Java?
+What is an interface in Java?
+What is an abstract class in Java?
+What is the difference between an interface and an abstract class in Java?
+What is the difference between static and non-static variables in Java?
+What is the difference between static and non-static methods in Java?
+What is the difference between a primitive data type and a reference data type in Java?
+What is an array in Java?
+How do you define a multidimensional array in Java?
+What is a Java package?
+What is the purpose of the import statement in Java?
+What is the main method in Java?
+What is the difference between the equals() method and the == operator in Java?
+What is the difference between the final, finally, and finalize keywords in Java?
+What is an exception in Java?
+What is the difference between a checked exception and an unchecked exception in Java?
+What is a try-catch block in Java?
+What is a try-with-resources block in Java?
+What is a throw statement in Java?
+What is a throws clause in a method signature in Java?
+What is a Java thread?
+What is the difference between a thread and a process in Java?
+What is a Java Runnable?
+What is the difference between a Java Runnable and a Java Thread?
+What is the purpose of the wait(), notify(), and notifyAll() methods in Java?
+What is the difference between the wait() and sleep() methods in Java?
+What is a Java synchronized block?
+What is the difference between a Java synchronized block and a Java synchronized method?
+What is a Java volatile variable?
+What is the difference between a Java transient variable and a Java volatile variable?
+What is a Java Enum?
+What is the difference between a Java Enum and a Java class?
+What is a Java Annotation?
+What is the difference between a Java Annotation and a Java Interface?
+What is a Java Lambda expression?
+What is the purpose of the this keyword in Java?
+What is the purpose of the super keyword in Java?
+What is the difference between the this and super keywords in Java?
+What is a Java inner class?
+What is a Java anonymous inner class?
+What is a Java static inner class?
+What is a Java local inner class?
+What is a Java member inner class?
+What is a Java nested class?
+What is a Java anonymous class?
+What is a Java constructor?
+
+
