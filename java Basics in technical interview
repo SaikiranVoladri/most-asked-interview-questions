@@ -18,13 +18,14 @@ What is polymorphism in Java?
 What is an interface in Java?
 What is the purpose of the import statement in Java?
 What is the main method in Java?
-What is the difference between the equals() method and the == operator in Java?
-What is the difference between the final, finally, and finalize keywords in Java?
-What is an exception in Java?
+
 What is the difference between a checked exception and an unchecked exception in Java?
 What is a try-catch block in Java?
 What is a try-with-resources block in Java?
 What is a throw statement in Java?
+What is an exception in Java?
+What is the difference between the equals() method and the == operator in Java?
+What is the difference between the final, finally, and finalize keywords in Java?
 What is an exception in Java?
 What is a throws clause in a method signature in Java?
 What is a Java thread?
