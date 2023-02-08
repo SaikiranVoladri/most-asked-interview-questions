@@ -1,0 +1,34 @@
+1. Difference between jdk, jre, jvm.
+2. Explain public static void main ().
+3. Why java is platform independent.
+4. Is java a pure object oriented.
+5. Difference between heap memory and stack memory.
+6. Difference between equals method and==
+7. Why pointers are not used in java 
+8. What is jit compiler. Explain.
+9. Difference between local variable and instance variable . Give example.
+10. How to declare constant in java .
+11. Can we declare class  methods and variable as a constant
+12. Difference between break and continue where we are used.
+13. Define a class loader system.
+14. Method overloading and method overwriting . Examples .
+15. Difference between c++ and java.
+16. Difference between final, finally and finalize.
+17. Explain type casting in java .
+18. Default value of local variable and static variable. 
+19. Define data types. 
+20. Define Exception handling in java.
+21.  What are default datatypes in java.
+22.in char datatype it takes two bites but c++it takes  one byte .why.
+23. Can we overload main method 
+24 . Can we overwrite 
+25. Can we type cast .
+26. Difference between assignment and initialisation. 
+27. What is unicode system.
+28. Use of main method 
+29. Can we execute java program without main method 
+30. What is byte code 
+31.how many types of loops in java.
+32. How many access modifiers in java .
+33. Is it possible to declare array as a final.
+34. What is jagged array
